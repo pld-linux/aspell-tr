@@ -1,5 +1,5 @@
 Summary:	Turkish dictionary for aspell
-Summary(pl):	S≥ownik turecki dla aspella
+Summary(pl.UTF-8):   S≈Çownik turecki dla aspella
 Name:		aspell-tr
 Version:	0.50
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Turkish dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik turecki (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik turecki (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
