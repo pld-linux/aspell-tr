@@ -1,5 +1,5 @@
 Summary:	Turkish dictionary for aspell
-Summary(pl.UTF-8):   Słownik turecki dla aspella
+Summary(pl.UTF-8):	Słownik turecki dla aspella
 Name:		aspell-tr
 Version:	0.50
 %define	subv	0
